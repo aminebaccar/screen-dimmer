@@ -13,7 +13,7 @@ A tiny Windows tray app that dims your whole screen with a hotkey, similar to th
 
 Get `ScreenDimmer.exe` from the [latest release](../../releases/latest), put it anywhere (for example `C:\Tools\ScreenDimmer\`) and run it. A crescent moon icon appears in the system tray. If you don't see it, click the **^** arrow next to the clock.
 
-Windows SmartScreen may warn you the first time because the file isn't code-signed. Click **More info â†’ Run anyway**, or [build it yourself](#build-from-source) from the source in this repository.
+Windows SmartScreen may warn you the first time because the file isn't code-signed. Click **More info → Run anyway**, or [build it yourself](#build-from-source) from the source in this repository.
 
 ## Usage
 
